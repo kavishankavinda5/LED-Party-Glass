@@ -18,3 +18,6 @@
 ## How It Works
 - The sound detection microphone sensor captures the surrounding audio environment, sending the signals to the NodeMCU ESP32.
 - The ESP32 processes the audio data and controls the WS2812B LED rings, creating captivating light patterns that match the sound's tempo and intensity.
+
+https://github.com/kavishankavinda5/LED-Party-Glass/assets/75110057/3564583d-d5f5-4724-8f96-303163249d45
+
